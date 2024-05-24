@@ -1,15 +1,21 @@
-header {
-    background-color: red;
-    color: black;
-}
-{
+*{
     margin: 0;
     padding: 0;
 }
-.cabeçalho {
+body{
+    font-family: Poppins, sans-serif;
+}
+.cabecalho {
     background-color: #424E61;
     color: white;
     display: flex;
     justify-content: space-around;
     align-items: center;
 } 
+.cabecalho-imagem{
+    width: 10%;
+}
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: ;
+}
