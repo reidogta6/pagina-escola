@@ -17,5 +17,42 @@ body{
 }
 .cabecalho-lista-item{
     display: inline-block;
-    margin: ;
+    margin: 0 16 px;
+    font-size: 16px;
 }
+.escola-imagem{
+    width: 25%;
+}
+.escola{
+    background-image: linear-gradient(#424E61, #16Cff8);
+    color:white ;
+    justify-content: center ;
+    align-items: center ;
+    padding: 24px 0;
+}
+.escola-div-conteudos{
+    width: 35%;
+}
+.escola-titulo{
+    padding: 24% 0;
+}
+.estudante{
+    padding: 24px 0;
+}
+.estudante-imagem{
+    width: 120px;
+}
+.estudante-icone{
+    width: 24px;
+    padding: 4px 8px;
+}
+.estudante-div{
+    text-align: center;
+    padding: 10px 0;
+}
+.estudante-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+
